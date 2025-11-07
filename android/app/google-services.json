@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400568424278",
+    "project_id": "spendo-firebase",
+    "storage_bucket": "spendo-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400568424278:android:c3cb0b78fa495ad235e8f7",
+        "android_client_info": {
+          "package_name": "com.spendo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400568424278-6kfb0k8h3074na8904c501hlcgfv7ck1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spendo",
+            "certificate_hash": "b12411c7649c48183030c9d838064b276c40d52e"
+          }
+        },
+        {
+          "client_id": "400568424278-48vbgn93l4tv9v8u593ssch8es0oftfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASXwvhoIM8WBdQzVsojODIJIBQivJ28M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400568424278-48vbgn93l4tv9v8u593ssch8es0oftfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
